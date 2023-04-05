@@ -1,3 +1,8 @@
 {
-  "extends": "@sanity/eslint-config-studio"
+  "extends": [
+    "next/babel"
+  ],
+  "rules": {
+    // Add any additional rules or configuration as needed
+  }
 }

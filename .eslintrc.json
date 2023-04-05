@@ -1,3 +1,8 @@
 {
-  "extends": ["next/babel", "next/core-web-vitals"]
+  "extends": [
+    "next/babel"
+  ],
+  "rules": {
+    // Add any additional rules or configuration as needed
+  }
 }
